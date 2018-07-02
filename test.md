@@ -1,1 +1,1 @@
-![Image of oldjoe](https://octodex.github.com/images/yaktocat.png)
+![Image of oldjoe](https://github.com/tkolcu/testproject/blob/master/oldjoe.jpg)
