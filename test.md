@@ -6,7 +6,7 @@
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
 
 <img src="oldjoe.jpg" alt="oldjoe" width="300" height="200">
-<img id="oldjoe" src="/image.jpg" rotate="90">
+<img id="oldjoe_canv" src="/oldjoe.jpg" class="rotate90">
 
 <i>This text is italic</i>
 <br>  
