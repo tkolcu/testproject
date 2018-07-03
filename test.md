@@ -5,7 +5,6 @@
 <br>
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
 
-<img id="oldjoe_canv" src="/oldjoe.jpg" class="rotate90">
 <i>This text is italic</i>
 <br>  
 *this text is italic*
