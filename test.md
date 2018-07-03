@@ -1,8 +1,8 @@
 <p>This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text. 
 <br>
-<img src="lake.jpg" alt="lake" width="250" height="200" align="middle">
-<img src="lake1.jpg" alt="lake1" width="250" height="200" align="middle">
-<img src="lake2.jpg" alt="lake2" width="250" height="200"align="middle">
+<img src="lake.jpg" alt="lake" width="270" height="200" align="middle">
+<img src="lake1.jpg" alt="lake1" width="270" height="200" align="middle">
+<img src="lake2.jpg" alt="lake2" width="270" height="200"align="middle">
 <br>
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
 
