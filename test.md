@@ -1,5 +1,7 @@
 <p>This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text. 
-<img src="oldjoe.jpg" alt="Old Joe 2015" width="300" height="200"align="centre">
+<img src="lake.jpg" alt="lake" width="300" height="200>
+<img src="lake1.jpg" alt="lake1" width="300" height="200>
+<img src="lake2.jpg" alt="lake2" width="300" height="200>
 <br>
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
 
