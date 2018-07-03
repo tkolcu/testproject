@@ -6,7 +6,7 @@ This is some text.This is some text.This is some text.This is some text.This is 
 <i>This text is italic</i>
 <br>  
 *this text is italic*
-<!–– leaves space between paragraphs––>
+<!–– br leaves space between paragraphs––>
 
 First Header | Second Header
 ------------ | -------------
