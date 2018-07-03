@@ -1,5 +1,4 @@
 <h1 style="color:blue;">The Long Lake</h1>
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
 <p>This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text. 
 <br>
 <img src="lake.jpg" alt="lake" width="270" height="200" align="middle">
