@@ -1,11 +1,11 @@
 <p>This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text. 
-<img src="lake.jpg" alt="lake" width="250" height="200">
-<img src="lake1.jpg" alt="lake1" width="250" height="200">
-<img src="lake2.jpg" alt="lake2" width="250" height="200">
+<img src="lake.jpg" alt="lake" width="250" height="200" align="middle">
+<img src="lake1.jpg" alt="lake1" width="250" height="200" align="middle">
+<img src="lake2.jpg" alt="lake2" width="250" height="200"align="middle">
 <br>
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
-<img src="oldjoe.jpg" alt="lake" width="250" height="200" style="transform:rotate(90deg);">
 
+<img id="oldjoe_canv" src="/oldjoe.jpg" class="rotate90">
 <i>This text is italic</i>
 <br>  
 *this text is italic*
