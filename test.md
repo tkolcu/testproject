@@ -4,9 +4,7 @@
 <img src="lake2.jpg" alt="lake2" width="250" height="200">
 <br>
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
-
-<img src="oldjoe.jpg" alt="oldjoe" width="300" height="200">
-<img id="oldjoe_canv" src="/oldjoe.jpg" class="rotate90">
+<img id="oldje_canv" src="/oldjoe.jpg" data-rotate="90">
 
 <i>This text is italic</i>
 <br>  
