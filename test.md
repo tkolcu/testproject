@@ -7,6 +7,7 @@
 <br>
 This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.This is some text.</p>
 
+<img src="oldjoe.jpg" height="250" width="300" style="-webkit-transform:rotate(90deg);">
 <i>This text is italic</i>
 <br>  
 *this text is italic*
